@@ -20,7 +20,9 @@ tl_tech_task/
 ├── index.html          # Main calculator application
 ├── README.md           # Project documentation
 └── .github/            # GitHub templates and workflows
-    └── pull_request_template.md
+    ├── pull_request_template.md
+    └── workflows/
+        └── ci.yml # GitHub Actions CI workflow
 ```
 
 ## Development & Technology Stack
