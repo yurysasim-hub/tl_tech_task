@@ -20,3 +20,7 @@
 > - Use this section to attach pictures that demonstrates your changes working / healthy
 > - Any other information or known dependencies that is important to this PR.
 > - TODO that are to be done after this PR.
+
+---
+
+> All checkboxes must be checked by devs or provided information why not.
