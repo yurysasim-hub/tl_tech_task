@@ -13,6 +13,7 @@
 ## Does This Introduce a Breaking Change?
 - [ ] Yes
 - [ ] No
+> **⚠️ Note:** Only one option must be checked.
 > If this introduces a breaking change, please describe the impact and migration path for existing applications below.
 
 ## Other Information or Known Dependencies
